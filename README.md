@@ -1,7 +1,7 @@
 # SchemeJs
 Tiny Scheme interpreter in JavaScript.
 
-This code is inspired by [lis.py](https://github.com/norvig/pytudes/blob/master/py/lis.py)
+This code is inspired by [lis.py](https://github.com/norvig/pytudes/blob/master/py/lis.py).
 
 ```js
 let scheme = new Scheme();
