@@ -236,7 +236,7 @@ scheme.do(`
         (lambda (n f)
             (if (> n 0)
                 (begin
-                    (apply f args)
+                    (apply f)
                     (repeat (- n 1) f)
                 )
             )
